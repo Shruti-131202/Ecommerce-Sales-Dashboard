@@ -12,7 +12,7 @@ Help stakeholders make data-driven decisions.
 <a href="https://github.com/Shruti-131202/Ecommerce-Sales-Dashboard/blob/main/Details.csv">Details.csv</a>
 <a href="https://github.com/Shruti-131202/Ecommerce-Sales-Dashboard/blob/main/Orders.csv">Orders.csv</a>
 ## Dashboard KPIs and Visuals
-<a href="">Eccommerce_dashboard</a>
+<a href="ttps://github.com/Shruti-131202/Ecommerce-Sales-Dashboard/blob/main/ecommerce%20dashboard.pbit">Eccommerce_dashboard</a>
 <a href="">Ecoomerce_Dashboaed_image</a>
  Key Metrics Cards (Top Row)
 Sum of Amount: Total revenue generated (₹4818)
