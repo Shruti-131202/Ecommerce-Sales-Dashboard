@@ -9,8 +9,8 @@ Understand payment trends and category preferences.
 Help stakeholders make data-driven decisions.
 
 ## Dataset
--<a href="https://github.com/Shruti-131202/Ecommerce-Sales-Dashboard/blob/main/Details.csv">Details.csv</a>
--<a href="https://github.com/Shruti-131202/Ecommerce-Sales-Dashboard/blob/main/Orders.csv">Orders.csv</a>
+- <a href="https://github.com/Shruti-131202/Ecommerce-Sales-Dashboard/blob/main/Details.csv">Details.csv</a>
+- <a href="https://github.com/Shruti-131202/Ecommerce-Sales-Dashboard/blob/main/Orders.csv">Orders.csv</a>
 ## Dashboard KPIs and Visuals
 <a href="ttps://github.com/Shruti-131202/Ecommerce-Sales-Dashboard/blob/main/ecommerce%20dashboard.pbit">Eccommerce_dashboard</a>
 <a href="https://github.com/Shruti-131202/Ecommerce-Sales-Dashboard/blob/main/eccomerce.jpg">Ecoomerce_Dashboaed_image</a>
