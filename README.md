@@ -48,7 +48,7 @@ DAX – For calculated metrics like AOV
 4.Printers is the most profitable sub-category.
 5.Yogesh and Priyanshu are top customers in terms of amount spent.
 
- ##Conclusion
+ ## Conclusion
 This dashboard enables quick decision-making by providing a 360-degree view of the sales performance. It is highly customizable with filters for quarters and states and can be adapted to different regions and time periods for deeper analysis.
 
 
